@@ -1,6 +1,6 @@
 ## PlateShare
 
-**Live Demo:** [https://cfs-assignment-10.web.app/myfoods](https://cfs-assignment-10.web.app/myfoods)
+**Live Demo:** [https://cfs-assignment-10.web.app/myfoods](https://cfs-assignment-10.web.app/)
 
 ### Tech Stack
 
