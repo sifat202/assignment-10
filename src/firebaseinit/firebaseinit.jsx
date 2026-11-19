@@ -30,3 +30,12 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
+
+
+//here maake the env file for the these are the creds
+//  apiKey: "AIzaSyCCVEtWPYcQXNl-XdUAfcwzGgtbLzuj-CA",
+//   authDomain: "cfs-assignment-10.firebaseapp.com",
+//   projectId: "cfs-assignment-10",
+//   storageBucket: "cfs-assignment-10.firebasestorage.app",
+//   messagingSenderId: "197736328799",
+//   appId: "1:197736328799:web:cd1de510279c80fd6075ea"

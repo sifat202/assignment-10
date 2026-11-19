@@ -8,7 +8,7 @@ import { useAuth } from '../Authprovider/CustomAuthhook';
 const api = axios.create({
     
   // Set the base URL for all requests made using this instance
-  baseURL: 'https://server-cfs.vercel.app', 
+  baseURL: 'https://assignment-10-server-zeta-jet.vercel.app', 
   headers: {
     'Content-Type': 'application/json',
     // Add any global headers like authorization tokens here
@@ -16,3 +16,4 @@ const api = axios.create({
 });
 
 export default api;
+// http://localhost:3000
